@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Popup Menu dan ListView</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+
+    <string name="etEmail">Masukkan Nama</string>
+    <string name="etPassword">Masukkan Password</string>
+    <string name="btnLogin">Sign</string>
+    <string name="tData">Selamat Datang</string>
+    <string name="Task">Task</string>
+    <string name="tPassword">Password</string>
+    <string name="txemail">ini hasil Email</string>
+    <string name="txpassword">ini hasil Password</string>
+    <string name="label2">Login Berhasil</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="tTaskmasuk">Masukkan Task</string>
+    <string name="jTask">Jenis Task</string>
+    <string name="mjTask">Masukkan Jenis Task</string>
+    <string name="tTask">Time Task</string>
+    <string name="mlTask">Masukkan Lama Task</string>
+    <string name="Task1">Task</string>
+    <string name="mLogout">Logout</string>
+    <string name="mSubmit">Submit</string>
+    <string name="rRegis">Register</string>
+    <string name="rNama">Nama</string>
+    <string name="rgNama">masukkan nama</string>
+    <string name="rEmail">Email</string>
+    <string name="rgEmail">masukkan email</string>
+    <string name="rPass">Password</string>
+    <string name="rgPass">masukkan password</string>
+    <string name="rRepass">Re-Password</string>
+    <string name="rgRepass">masukkan password</string>
+    <string name="btn_1">Register</string>
+    <string name="user1"></string>
+    <string name="Reg">REGISTER</string>
+
+
+
+</resources>
